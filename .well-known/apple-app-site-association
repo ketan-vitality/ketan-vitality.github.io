@@ -7,7 +7,7 @@
           "WDYWGXWGAA.com.vitalityactive.va"
         ],
         "paths": [
-          "*" : "/"
+          "*"
         ],
         "components": [
           {
