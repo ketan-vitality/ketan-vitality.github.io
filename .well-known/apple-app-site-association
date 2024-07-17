@@ -6,7 +6,13 @@
         "appIDs": [
           "WDYWGXWGAA.com.vitalityactive.va"
         ],
+        "paths": [
+          "*"
+        ],
         "components": [
+          {
+            "/": "/*"
+          },
           {
             "/": "/forgot_password_screen",
             "comment": "Matches URL with a path /forgot_password_screen"
