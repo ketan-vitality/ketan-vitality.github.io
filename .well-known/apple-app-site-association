@@ -7,15 +7,18 @@
           "WDYWGXWGAA.com.vitalityactive.va"
         ],
         "paths": [
-          "*","/"
+          "/physical_activity_landing","/en/checkout/thank-you/*","/nl/checkout/canceled/*"
         ],
         "components": [
           {
-            "/": "/*"
+            "/": "/physical_activity_landing",
+            "comment": "Matches URL with a path /physical_activity_landing"
           },
           {
-            "/": "/forgot_password_screen",
-            "comment": "Matches URL with a path /forgot_password_screen"
+            "/": "/en/checkout/thank-you/*"
+          },
+          {
+            "/": "/nl/checkout/canceled/*"
           }
         ]
       }
