@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
 	    {
-                "appID": ["QMJ4F5B698.com.vitalityactivemobile.nl","WDYWGXWGAA.com.vitalitygroup.netherlandsapp"],
+                "appIDs": ["QMJ4F5B698.com.vitalityactivemobile.nl","WDYWGXWGAA.com.vitalitygroup.netherlandsapp"],
                 "paths": [
 		            "*","/*/checkout/*"
                 ]
