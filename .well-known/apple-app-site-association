@@ -1,27 +1,22 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "WDYWGXWGAA.com.vitalityactive.va"
-        ],
-        "paths": [
-          "/physical_activity_landing","/en/checkout/thank-you/*","/nl/checkout/canceled/*"
-        ],
-        "components": [
-          {
-            "/": "/physical_activity_landing",
-            "comment": "Matches URL with a path /physical_activity_landing"
-          },
-          {
-            "/": "/en/checkout/thank-you/*"
-          },
-          {
-            "/": "/nl/checkout/canceled/*"
-          }
+    "applinks": {
+        "apps": [],
+        "details": [
+	    {
+                "appID": "QMJ4F5B698.com.vitalityactivemobile.nl",
+                "paths": [
+		    "*",
+                    "/*/checkout/*"
+                ]
+            },
+	    {
+                "appID": "WDYWGXWGAA.com.vitalitygroup.netherlandsapp",
+                "paths": [
+		    "*",
+                    "/*/checkout/*"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
+
