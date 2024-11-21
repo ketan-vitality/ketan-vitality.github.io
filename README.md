@@ -8,5 +8,5 @@ EX: https://ketan-vitality.github.io/.well-known/assetlinks.json
 
 IOS:
 To verify your apple-app-site-association file updated in apple CDN go to below link:
-https://app-site-association.cdn-apple.com/a/v1/<domain>
+https://app-site-association.cdn-apple.com/a/v1/domain.name
 EX: https://app-site-association.cdn-apple.com/a/v1/ketan-vitality.github.io
