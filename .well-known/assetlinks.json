@@ -4,6 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.vitalityactive.assetadvance",
     "sha256_cert_fingerprints":
-    ["4B:DB:59:65:BC:82:42:D8:3C:40:32:48:D3:25:0A:47:0A:75:4A:3E:45:7A:74:90:99:2A:B6:1E:0A:6A:48:82"]
+    ["4B:DB:59:65:BC:82:42:D8:3C:40:32:48:D3:25:0A:47:0A:75:4A:3E:45:7A:74:90:99:2A:B6:1E:0A:6A:48:82",
+      "4E:CD:74:02:F1:24:98:61:24:6A:B6:F4:94:06:1D:EB:5C:92:6C:6A:5A:37:8C:EF:86:D4:04:0D:03:B4:47:74"
+    ]
   }
 }]
