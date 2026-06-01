@@ -3,7 +3,12 @@
         "apps": [],
         "details": [
 	    {
-                "appIDs": ["QMJ4F5B698.com.vitalityactivemobile.nl","WDYWGXWGAA.com.vitalitygroup.netherlandsapp","WDYWGXWGAA.com.vitalityactive.va","SU2V5Z44TL.com.vitalityactive.tataaia"],
+                "appIDs": [
+                    "QMJ4F5B698.com.vitalityactivemobile.nl",
+                    "WDYWGXWGAA.com.vitalitygroup.netherlandsapp",
+                    "WDYWGXWGAA.com.vitalityactive.va",
+                    "SU2V5Z44TL.com.vitalityactive.tataaia"
+                ],
                 "paths": [
 		            "*",
                 ]
