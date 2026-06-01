@@ -6,8 +6,18 @@
     "sha256_cert_fingerprints": [
       "4B:DB:59:65:BC:82:42:D8:3C:40:32:48:D3:25:0A:47:0A:75:4A:3E:45:7A:74:90:99:2A:B6:1E:0A:6A:48:82",
       "4E:CD:74:02:F1:24:98:61:24:6A:B6:F4:94:06:1D:EB:5C:92:6C:6A:5A:37:8C:EF:86:D4:04:0D:03:B4:47:74",
-      "BF:8D:D4:BC:3D:D4:1A:09:1B:2D:9C:9A:0B:24:08:18:1F:04:57:7F:F3:2A:0B:6C:D3:36:AD:88:45:88:94:F6",
-       "C0:8D:36:62:1E:08:18:89:D9:06:77:28:2D:A1:EC:68:75:BF:3B:FB:AE:A7:AD:1B:B0:81:BD:9B:F7:7F:90:E3"
-    ]
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vitalityactive.tataaia",
+      "sha256_cert_fingerprints": [
+        "BF:8D:D4:BC:3D:D4:1A:09:1B:2D:9C:9A:0B:24:08:18:1F:04:57:7F:F3:2A:0B:6C:D3:36:AD:88:45:88:94:F6",
+        "C0:8D:36:62:1E:08:18:89:D9:06:77:28:2D:A1:EC:68:75:BF:3B:FB:AE:A7:AD:1B:B0:81:BD:9B:F7:7F:90:E3"
+      ]
+    }
   }
-}]
+]
