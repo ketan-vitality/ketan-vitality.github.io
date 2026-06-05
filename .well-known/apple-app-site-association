@@ -17,6 +17,11 @@
                  "paths": ["*"]
         }
         ]
-    }
+    },
+	"webcredentials": {
+    	"apps": [
+      		"WDYWGXWGAA.com.vitalityactive.va"
+    	]
+  	}
 }
 
